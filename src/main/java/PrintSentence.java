@@ -9,4 +9,8 @@ public class PrintSentence {
     public void m2(){
         System.out.println("world");
     }
+
+    public void m3(){
+        System.out.println("moximoxi");
+    }
 }
