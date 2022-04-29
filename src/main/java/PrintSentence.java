@@ -17,4 +17,8 @@ public class PrintSentence {
     public void m4(){
         System.out.println("moximoxi");
     }
+
+    public void m5(){
+        System.out.println("moximoxi");
+    }
 }
