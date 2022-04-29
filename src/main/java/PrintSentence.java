@@ -21,4 +21,8 @@ public class PrintSentence {
     public void m5(){
         System.out.println("moximoxi");
     }
+
+    public void m6(){
+        System.out.println("moximoxi");
+    }
 }
